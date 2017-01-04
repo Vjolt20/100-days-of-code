@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 3rd, 2017 
-<!--->##### (delete me or comment me out)</!-->
+<!--->##### (delete me or comment me out)</!>
 
 **Today's Progress**: Worked on Free code camp's Front End Development Certification HTML5 and CSS. 37 exercises in! 
 
